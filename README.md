@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @se4ga123
+- 👋 Hi, I’m @7e4ga
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Html and Css
 <!---
